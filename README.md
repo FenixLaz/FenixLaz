@@ -4,5 +4,10 @@
 
 Languages and tools | Языки и программы
 
+### Python
+### Pawn
+### SQL
 
 Follow me | Подпишись на меня
+
+Моя мечта стать сотрудником маленькой компашки Malinovka Team <3
