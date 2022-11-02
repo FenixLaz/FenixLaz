@@ -8,6 +8,6 @@ Python
 Pawn
 SQL
 
-Follow me | Подпишись на меня
+# Follow me | Подпишись на меня
 
 Моя мечта стать сотрудником маленькой компашки Malinovka Team <3
