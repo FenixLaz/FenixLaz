@@ -2,11 +2,11 @@
 
 ### Novice developer-python
 
-Languages and tools | Языки и программы
+# Languages and tools | Языки и программы
 
-### Python
-### Pawn
-### SQL
+Python
+Pawn
+SQL
 
 Follow me | Подпишись на меня
 
