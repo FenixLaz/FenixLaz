@@ -1,6 +1,6 @@
 [![Header | Шапка](https://github.com/FenixLaz/FenixLaz/blob/main/header.png)](https://vk.com/chudin.dima)
 
-### Novice developer-python
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Novice+developer+python)](https://git.io/typing-svg)
 
 # Languages and tools | Языки и программы
 
