@@ -14,6 +14,7 @@ SQL
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FenixLaz)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FenixLaz&layout=compact)]()
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 # Follow me | Подпишись на меня
 
 Моя мечта - стать сотрудником маленькой компашки Malinovka Team <3
