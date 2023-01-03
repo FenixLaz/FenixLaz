@@ -1,4 +1,4 @@
-[![Header | Шапка](https://github.com/FenixLaz/FenixLaz/header.png)](https://vk.com/chudin.dima)
+[![Header | Шапка](https://github.com/FenixLaz/FenixLaz/blob/main/header.png)](https://vk.com/chudin.dima)
 
 ### Novice developer-python
 
