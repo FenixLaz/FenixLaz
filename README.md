@@ -11,3 +11,5 @@ SQL
 # Follow me | Подпишись на меня
 
 Моя мечта - стать сотрудником маленькой компашки Malinovka Team <3
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
