@@ -1,5 +1,7 @@
-
+# Until 2023! | Пока 2023!
 [![Until 2023 | Пока 2023](https://github.com/FenixLaz/FenixLaz/blob/main/newyear.png)](https://vk.com/chudin.dima)
+
+# Header | Шапка
 [![Header | Шапка](https://github.com/FenixLaz/FenixLaz/blob/main/header.png)](https://vk.com/chudin.dima)
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+Novice+developer+python)](https://git.io/typing-svg)
